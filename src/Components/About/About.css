@@ -1,0 +1,25 @@
+.about-bg-img {
+  position: relative;
+  z-index: 1;
+  padding: 20px;
+  color: #000;
+}
+
+.about-bg-img::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+  background-image: url("https://cdn.pixabay.com/photo/2023/03/14/00/12/courtyard-7851109_1280.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+  opacity: 0.2;
+  z-index: -1;
+
+  background-attachment: fixed;
+}

@@ -1,0 +1,8 @@
+.bg-img {
+  /* background-image: url("https://cdn.pixabay.com/photo/2021/01/05/01/15/home-5889366_1280.jpg"); */
+  background-image: url("/public/images/img7.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}

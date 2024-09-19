@@ -1,0 +1,32 @@
+.bg-img-About {
+  background-image: url("/public/images/aboutUs.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.our-mission-css {
+  position: relative;
+  z-index: 1;
+  padding: 20px;
+  color: #000;
+}
+
+.our-mission-css::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+  opacity: 0.5;
+  z-index: -1;
+
+  background-image: url("/public/images/visionImg.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}

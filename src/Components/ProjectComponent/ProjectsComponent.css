@@ -1,0 +1,7 @@
+.bg-img-project {
+  background-image: url("https://cdn.pixabay.com/photo/2019/11/20/17/42/buildings-4640671_1280.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
