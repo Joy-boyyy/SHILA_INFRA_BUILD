@@ -22,7 +22,7 @@ const Menu = () => {
               <div>
                 <h1>
                   <span className="text-[#4BABD1] text-[2rem] font-bold">
-                    SHILA INFRA
+                    SHAIL INFRA
                   </span>
                   <span> </span>
                   <span className="text-[#BD283B] text-[2rem] font-bold">
