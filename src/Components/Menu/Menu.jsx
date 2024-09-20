@@ -71,7 +71,7 @@ const Menu = () => {
                   </span>
                 </div>
                 <div>
-                  <span className="font-bold">+91 9455746616</span>
+                  <span className="font-bold">+91 7985660474</span>
                 </div>
               </div>
             </div>
